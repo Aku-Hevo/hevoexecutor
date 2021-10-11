@@ -25,7 +25,7 @@ Downloading and Installing Hevo Executor onto your computer is quite simple, sim
   &nbsp;&nbsp;4.) Select your desired application (you can search for the first letter if needed)  
   &nbsp;&nbsp;5.) Click the `Inject` Button (Syringe Icon)  
   
-![screenshot1](https://user-images.githubusercontent.com/47403033/114762908-3b12a200-9d30-11eb-8c8d-b523235b50ae.png)
+![screenshot1](https://cdn.discordapp.com/attachments/801156009447129119/897217513597857822/unknown.png)
 
 ## FAQ  
 
