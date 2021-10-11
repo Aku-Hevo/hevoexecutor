@@ -5,10 +5,10 @@
 
 Downloading and Installing Hevo Executor onto your computer is quite simple, simply follow the steps listed bellow.
   
-  &nbsp;&nbsp;1.) Goto the [Magma Releases Page](https://github.com/Not316tb/Magma-IaE/releases) And download the latest version (currently v2.0.9)    
+  &nbsp;&nbsp;1.) Goto the [Hevo Releases Page](https://github.com/Aku-Hevo/hevoexecutor/releases) And download the latest version (currently v1.0.0s)    
   &nbsp;&nbsp;3.) Extract the ZIP Archive onto your Desktop  
-  &nbsp;&nbsp;2.) **Configure Your Anti-Virus** to ignore the `Magma IaE v2.0.9` folder. *    
-  &nbsp;&nbsp;4.) Run the `Magma_IaE.exe` as Administrator  
+  &nbsp;&nbsp;2.) **Configure Your Anti-Virus** to ignore the `HevoEX` folder. *    
+  &nbsp;&nbsp;4.) Run the `HevoEX.exe` as Administrator  
 
 #### To use the Roblox Lua Executor:
   
@@ -37,24 +37,15 @@ Downloading and Installing Hevo Executor onto your computer is quite simple, sim
 
 > The most reputable source to look for more Scripts is [V3rMillion](https://v3rmillion.net/)
 
-#### Magma wont open when I run it!
+#### Hevo wont open when I run it!
 
- > You most likely left your antivirus enabled, or forgot to configure it to ignore Magma. If you don't have a third-party antivirus installed, read the section below on how to disable Windows Virus and Threat Protection. 
+ > You most likely left your antivirus enabled, or forgot to configure it to ignore HevoEX. If you don't have a third-party antivirus installed, read the section below on how to disable Windows Virus and Threat Protection. 
 
-#### Why does Magma need Administrator Permissions?
- > Since magma has an on-board internal DLL injector, it needs to reference System files in order to work (`kernel32.dll` respectively). Without requiring admin permissions the DLL injector would simply break
+#### Why does HevoEX need Administrator Permissions?
+ > Since Hevo has an on-board internal DLL injector, it needs to reference System files in order to work (`kernel32.dll` respectively). Without requiring admin permissions the DLL injector would simply break
 
-#### Why does Magma flag as a virus?
+#### Why does HevoEX flag as a virus?
 
-> Due to the nature of Roblox exploits and the way they work (game manipulation, raw code injection, etc.) you need to disable Windows Security if on Windows 10 Home or Pro, and Windows Defender if on Windows 10 Enterprise and above, and if you have another antivirus software installed configure it to allow all files within the Magma directory ( Default: `C:\Program Files (x86)\Magma\` ). Magma is not a virus, and will not work with an unconfigured antivirus enabled, since it will automatically remove important files required for the application to launch. You can learn how to turn off Windows Defender [here](https://www.youtube.com/watch?v=TJb9CuVAHMI). Magma uses a process called code injection to attach itself to a game. This process is also being used by some malicious software, which is why your antivirus tool may detects this download as malicious.
+> Due to the nature of Roblox exploits and the way they work (game manipulation, raw code injection, etc.) you need to disable Windows Security if on Windows 10 Home or Pro, and Windows Defender if on Windows 10 Enterprise and above, and if you have another antivirus software installed configure it to allow all files within the HevoEX directory ( Default: `C:\Program Files (x86)\HevoEX\` ). Hevo is not a virus, and will not work with an unconfigured antivirus enabled, since it will automatically remove important files required for the application to launch. You can learn how to turn off Windows Defender [here](https://www.youtube.com/watch?v=TJb9CuVAHMI). HevoEX uses a process called code injection to attach itself to a game. This process is also being used by some malicious software, which is why your antivirus tool may detects this download as malicious.
 
-Magma is 100% safe to use, as long as you got it from here!
-
-## Please Note
-I had no part in making any of the injection APIs or Lua Scripts included in this application, and each one belongs to it's rightful owners.
-
-### Disclaimer
-#### USE AT YOUR OWN RISK
-I am in no way responsible if you recieve any kind of in-game punishment for using this software, and as such by downloading Magma you agree to take full responsibility!
-
-Happy Cheating!
+HevoEX is 100% safe to use, as long as you got it from here!
